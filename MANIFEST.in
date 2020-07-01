@@ -1,2 +1,6 @@
-include syfertext_en_core_web_lg/data/vectors
-include syfertext_en_core_web_lg/data/key2row
+include syfertext_es_core_news_sm/data/vectors
+include syfertext_es_core_news_sm/data/key2row
+include syfertext_es_core_news_sm/data/strings.json
+include syfertext_es_core_news_sm/data/lexemes.bin
+include syfertext_es_core_news_sm/meta.json
+include syfertext_es_core_news_sm/tokenizer
