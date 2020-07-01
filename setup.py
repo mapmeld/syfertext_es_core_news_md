@@ -3,10 +3,10 @@ from setuptools import find_packages
 
 
 setup(
-    name="syfertext_en_core_web_lg",
+    name="syfertext_es_core_news_md",
     author="spaCy",
-    description="A simplified version of spaCy's en_core_web_lg language model",
-    url= "https://github.com/AlanAboudib/syfertext_en_core_web_lg",
+    description="A simplified version of spaCy's es_core_news_md language model",
+    url= "https://github.com/mapmeld/syfertext_ex_core_news_md",
     keywords="syfertext SyferText en_core_web_lg language model spacy spaCy",
     classifier=["Programming Language :: Python :: 3.6", "Operating System :: OS Independent"],
     license="MIT",
