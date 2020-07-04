@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # Get the path to the data folder
-DATA_PATH = os.path.join(Path(__file__).parent, "data")
+DATA_PATH = os.path.join(Path(__file__).parent, "vocab")
 
 
 def _load_vectors():

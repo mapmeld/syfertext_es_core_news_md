@@ -1,3 +1,0 @@
-syfertext_en_core_web_lg/data/key2row filter=lfs diff=lfs merge=lfs -text
-syfertext_en_core_web_lg/data/vectors filter=lfs diff=lfs merge=lfs -text
-syfertext_en_core_web_lg/data/words filter=lfs diff=lfs merge=lfs -text
